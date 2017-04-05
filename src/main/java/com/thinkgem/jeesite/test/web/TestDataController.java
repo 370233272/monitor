@@ -24,7 +24,7 @@ import com.thinkgem.jeesite.test.service.TestDataService;
 
 /**
  * 单表生成Controller
- * @author ThinkGem
+ * @author ThinkGem11
  * @version 2015-04-06
  */
 @Controller
